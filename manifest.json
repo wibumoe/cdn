@@ -1,28 +1,28 @@
 {
-  "short_name": "YugenAnime",
-  "name": "YugenAnime",
-  "description": "Track, Discover, Share & Watch Anime for Free! :: YugenAnime",
+  "short_name": "NekoPoi",
+  "name": "NekoPoi",
+  "description": "Download, Nonton Anime H Subtitle Indonesia :: NekoPoi",
   "icons": [
     {
-      "src": "/static/img/favicon-512x512.png",
+      "src": "/wp-content/uploads/2022/08/apk-icon.png",
       "type": "image/png",
       "sizes": "512x512",
 	  "purpose": "any maskable"
     },
     {
-      "src": "/static/img/android-chrome-192x192.png",
+      "src": "/wp-content/uploads/2022/08/cropped-apk-icon-180x180.png",
       "type": "image/png",
       "sizes": "192x192",
 	  "purpose": "any maskable"
     },
     {
-      "src": "/static/img/favicon-32x32.png",
+      "src": "/wp-content/uploads/2022/08/cropped-apk-icon-192x192.png",
       "type": "image/png",
       "sizes": "32x32",
 	  "purpose": "any maskable"
     },
     {
-      "src": "/static/img/favicon-16x16.png",
+      "src": "/wp-content/uploads/2022/08/cropped-apk-icon-180x180.png",
       "type": "image/png",
       "sizes": "16x16",
 	  "purpose": "any maskable"
