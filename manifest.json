@@ -4,33 +4,33 @@
   "description": "Download, Nonton Anime H Subtitle Indonesia :: NekoPoi",
   "icons": [
     {
-      "src": "https://nekopoi.help/wp-content/uploads/2022/08/apk-icon.png",
+      "src": "https://nekopoi.guru/wp-content/uploads/2023/12/ic_launcher.png",
       "type": "image/png",
       "sizes": "512x512",
 	  "purpose": "any maskable"
     },
     {
-      "src": "https://nekopoi.help/wp-content/uploads/2022/08/cropped-apk-icon-180x180.png",
+      "src": "https://nekopoi.guru/wp-content/uploads/2023/12/ic_launcher.png",
       "type": "image/png",
       "sizes": "192x192",
 	  "purpose": "any maskable"
     },
     {
-      "src": "https://nekopoi.help/wp-content/uploads/2022/08/cropped-apk-icon-192x192.png",
+      "src": "https://nekopoi.guru/wp-content/uploads/2023/12/ic_launcher.png",
       "type": "image/png",
       "sizes": "32x32",
 	  "purpose": "any maskable"
     },
     {
-      "src": "https://nekopoi.help/wp-content/uploads/2022/08/cropped-apk-icon-180x180.png",
+      "src": "https://nekopoi.guru/wp-content/uploads/2023/12/ic_launcher.png",
       "type": "image/png",
       "sizes": "16x16",
 	  "purpose": "any maskable"
     }
   ],
-  "start_url": "https://nekopoi.help/",
+  "start_url": "https://nekopoi.guru/",
   "background_color": "#101112",
   "display": "standalone",
-  "scope": "https://nekopoi.help/",
+  "scope": "https://nekopoi.guru/",
   "theme_color": "#101112"
 }
